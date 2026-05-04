@@ -35,7 +35,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
   ├─ GitHub Professional: https://github.com/sk-mallick
   ├─ Portfolio: https://sk-coder-001.netlify.app/
   ├─ LinkedIn: https://www.linkedin.com/in/subham-kumar-mallick
-  ├─ EnglishJibi Club: https://sk-mallick.github.io/englishjibi-classes/
+  ├─ EnglishJibi Club: https://sk-mallick-englishjibi.page.gd/
   ├─ Sunita Makeover: https://sk-mallick.github.io/sunitamakeover/
   ├─ Purvaansh Preschool: https://purvaanshpreschool.com/
   ├─ ACM Portal: https://adityanarayandas.github.io/acm/
@@ -60,7 +60,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
 <tr>
 <td width="40%" align="center" valign="middle" style="padding: 35px 25px 35px 0;">
 
-<img src="https://sk-mallick.github.io/englishjibi-classes/img/team-subham.jpg" width="220" height="220" style="border-radius: 20px; border: 3px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.25);" alt="Subham Kumar Mallick"/>
+<img src="https://sk-mallick-englishjibi.page.gd/img/team-subham.jpg" width="220" height="220" style="border-radius: 20px; border: 3px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.25);" alt="Subham Kumar Mallick"/>
 
 <br/><br/>
 
@@ -78,7 +78,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
 
 **`Subham Kumar Mallick`** — developer, founder, and builder based in **Bhubaneswar, Odisha, India 📍**
 
-> 🚀 Founder of **[EnglishJibi Club](https://sk-mallick.github.io/englishjibi-classes/)** — AI-Powered CBSE Grammar Learning Platform
+> 🚀 Founder of **[EnglishJibi Club](https://sk-mallick-englishjibi.page.gd/)** — AI-Powered CBSE Grammar Learning Platform
 
 > 🎓 **B.Tech Computer Science** · Trident Academy of Technology · 6th Semester
 
@@ -160,7 +160,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
 
 **Tech Stack:** PHP 8 | MySQL | React | Tailwind | Firebase
 
-[![Live Site](https://img.shields.io/badge/🔗_Visit_Now-EnglishJibi_Club-4ADE80?style=for-the-badge&labelColor=0d1117)](https://sk-mallick.github.io/englishjibi-classes/)
+[![Live Site](https://img.shields.io/badge/🔗_Visit_Now-EnglishJibi_Club-4ADE80?style=for-the-badge&labelColor=0d1117)](https://sk-mallick-englishjibi.page.gd/)
 [![GitHub](https://img.shields.io/badge/Code_Repo-sk--mallick-0d1117?style=for-the-badge&logo=github)](https://github.com/sk-mallick)
 
 </td>
@@ -594,7 +594,7 @@ PROFESSIONAL PROFILE
 
 <br/>
 
-[![📚 EnglishJibi Club](https://img.shields.io/badge/📚_EnglishJibi_Club-Grammar_Platform-4ADE80?style=for-the-badge&labelColor=0d1117)](https://sk-mallick.github.io/englishjibi-classes/)
+[![📚 EnglishJibi Club](https://img.shields.io/badge/📚_EnglishJibi_Club-Grammar_Platform-4ADE80?style=for-the-badge&labelColor=0d1117)](https://sk-mallick-englishjibi.page.gd/)
 &nbsp;&nbsp;
 [![💄 Sunita Makeover](https://img.shields.io/badge/💄_Sunita_Makeover-Premium_Salon-FF6B6B?style=for-the-badge&labelColor=0d1117)](https://sk-mallick.github.io/sunitamakeover/)
 
@@ -613,7 +613,7 @@ PROFESSIONAL PROFILE
 | 🔗 **Resource** | 📖 **Description** | 🎯 **Purpose** |
 |:---|:---|:---|
 | **[Portfolio](https://sk-coder-001.netlify.app/)** | Complete project showcase & case studies | Professional Portfolio |
-| **[EnglishJibi Club](https://sk-mallick.github.io/englishjibi-classes/)** | AI-powered grammar learning | EdTech Product |
+| **[EnglishJibi Club](https://sk-mallick-englishjibi.page.gd/)** | AI-powered grammar learning | EdTech Product |
 | **[Sunita Makeover](https://sk-mallick.github.io/sunitamakeover/)** | Premium beauty salon & academy | Business Website |
 | **[Purvaansh School](https://purvaanshpreschool.com/)** | Modern institutional portal | School Website |
 | **[ACM Portal](https://adityanarayandas.github.io/acm/)** | Student community hub | Community Platform |
@@ -654,7 +654,7 @@ Chapter         : ACM Student Chapter — Tech Lead
 
 PORTFOLIO PROPERTIES
 Portfolio       : https://sk-coder-001.netlify.app/
-EnglishJibi Club : https://sk-mallick.github.io/englishjibi-classes/
+EnglishJibi Club : https://sk-mallick-englishjibi.page.gd/
 Sunita Makeover : https://sk-mallick.github.io/sunitamakeover/
 Purvaansh School : https://purvaanshpreschool.com/
 ACM Portal      : https://adityanarayandas.github.io/acm/
@@ -687,7 +687,7 @@ AUTHORITY BACKLINKS
 ├─ GitHub: https://github.com/sk-mallick
 ├─ Portfolio: https://sk-coder-001.netlify.app/
 ├─ LinkedIn: https://www.linkedin.com/in/subham-kumar-mallick
-├─ EnglishJibi: https://sk-mallick.github.io/englishjibi-classes/
+├─ EnglishJibi: https://sk-mallick-englishjibi.page.gd/
 ├─ Sunita: https://sk-mallick.github.io/sunitamakeover/
 ├─ Purvaansh: https://purvaanshpreschool.com/
 └─ ACM: https://adityanarayandas.github.io/acm/

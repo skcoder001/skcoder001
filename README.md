@@ -60,7 +60,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
 <tr>
 <td width="40%" align="center" valign="middle" style="padding: 35px 25px 35px 0;">
 
-<img src="https://sk-mallick-englishjibi.page.gd/img/team-subham.jpg" width="220" height="220" style="border-radius: 20px; border: 3px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.25);" alt="Subham Kumar Mallick"/>
+<img src="https://sk-mallick.github.io/englishjibi-classes/img/team-subham.jpg" width="220" height="220" style="border-radius: 20px; border: 3px solid #00D4FF; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.25);" alt="Subham Kumar Mallick"/>
 
 <br/><br/>
 

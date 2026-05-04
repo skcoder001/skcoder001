@@ -64,7 +64,7 @@ PROFESSIONAL METADATA & SEO OPTIMIZATION
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=280&height=70&lines=B.Tech+CS+%7C+6th+Sem;EnglishJibi+Club+Founder;Freelance+Developer;Building+EdTech+for+India+🇮🇳)](https://github.com/sk-mallick)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=280&height=70&lines=B.Tech+CS+%7C+6th+Sem;EnglishJibi-Club+Founder;Freelance+Developer;Building+EdTech+India+🇮🇳)](https://github.com/sk-mallick)
 
 <br/>
 
